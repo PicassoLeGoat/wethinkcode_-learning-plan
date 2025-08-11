@@ -8,7 +8,7 @@ GitLab / Git Notes
 ----------------------------------------------------------------------------------------------------------------------------------------
 (i used notion for the notes so i will paste the link to the notes below)
 
-Notion Link: https://www.notion.so/GitLab-With-Essentials-23e4fe52e26080c38948ffad53d46799?source=copy_link
+Notion Link: https://www.notion.so/GitLab-With-Essentials-23e4fe52e26080c38948ffad53d467990?source=copy_link
 
 The notes include:
 
